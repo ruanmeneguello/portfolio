@@ -6,7 +6,7 @@ const ProfileSection = () => {
   return (
     <div className="profile-section">
       <img src="profilepic.jpg" alt="profile" clasName="pofilepic" />
-      <h1>Software engineer, father, and believer</h1>
+      <h1>Ruan Meneguello Software engineer and Data Analysy </h1>
       <p>
         Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur
         adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi..
