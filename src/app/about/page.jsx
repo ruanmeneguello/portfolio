@@ -70,7 +70,7 @@ export default function About() {
 
       <div className="aboutBody">
         <div className="aboutDescription">
-          <h1 className="h1">I’m Jane. I live in New York City, where I develop the future.</h1>
+          <h1 className="h1">I’m Ruan Meneguello. I live in Salt Lake City, where I develop the future.</h1>
           <br></br>
           <p>
             Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur
