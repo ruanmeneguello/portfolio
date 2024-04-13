@@ -3,5 +3,20 @@
     "paths": {
       "@/*": ["./src/*"]
     }
+    {
+  "name": "portfolio-2v5l",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "react-scripts build",
+    "start": "react-scripts start",
+    "deploy": "serve -s build"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    // other dependencies
+  }
+}
+
   }
 }
