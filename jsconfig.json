@@ -4,7 +4,7 @@
       "@/*": ["./src/*"]
     }
     {
-  "name": "portfolio-zkg3",
+  "name": "portfolio4",
   "version": "1.0.0",
   "scripts": {
     "build": "react-scripts build",
